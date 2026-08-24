@@ -1,0 +1,14 @@
+
+    FICHA DEL VIDEOJUEGO
+
+    Estudiante: Estudiante no identificado,
+    Node.js: v24.19.0
+    Plataforma del sitema: win32
+
+    Titulo: Dragon Ball FighterZ
+    Estudio: Arc System Works
+    Año: 26 de enero del 2018
+    Plataformas: PlayStation 4, Xbox One
+    ¿Es multijugador?: Si
+
+    
